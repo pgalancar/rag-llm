@@ -1,4 +1,4 @@
 pypdf
 langchain
-chromadb # Vector storage
+chromadb
 pytest
